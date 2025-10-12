@@ -1,3 +1,3 @@
 # cutespy
-just basic
+just basic httpspy
 will update often
